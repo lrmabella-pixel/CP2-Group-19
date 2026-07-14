@@ -1,0 +1,5 @@
+username,password,role
+admin,admin123,ADMIN
+hr_user,hr123,HR
+payroll_user,payroll123,PAYROLL
+finance_user,finance123,FINANCE
